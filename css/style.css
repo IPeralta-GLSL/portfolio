@@ -458,3 +458,8 @@ footer hr
     border-right: 1px solid #ffffff00; /* Cambiado a una línea blanca */
     height: 100%;
 }
+
+.icon-size {
+    width: 48px;
+    height: 48px;
+  }
